@@ -1,6 +1,8 @@
 # Eventures-Web-App-Manual-Testing
 Workshop: Manual Testing
 
+<img alt="Image" width="400px" src="HomePage.png" /> 
+
 You are given a MVC web app. To run the app, go to:
 
 http://softuni-qa-loadbalancer-2137572849.eu-north-1.elb.amazonaws.com:81/
